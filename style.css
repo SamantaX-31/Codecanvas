@@ -1,0 +1,275 @@
+body
+{
+    background-color: beige;
+}
+header
+{
+  background-color: rgb(238, 238, 182);
+  padding:10px;
+}
+ul
+{
+    float:right;
+    list-style-type: none;
+    margin-top:-30px;
+    font-size:medium;
+}
+ul li
+{
+    display: inline-flex;
+}
+ul li a
+{
+    text-decoration: none;
+    color:black;
+    padding: 5px;
+    transition: 0.5es;
+
+}
+#Request
+{
+    border-radius: 20px;
+    border-style:double;
+}
+.info
+{
+    margin-left:10%;
+    margin-top:10%;
+}
+.info h2
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info p
+{
+    font-size:medium;
+}
+.image img
+{
+    height: 300px;
+    position: absolute;
+    right:100px;
+    bottom:0px;
+}
+.in a{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    margin-left:10%;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius:5px;
+    
+    display: inline-block;
+    font-size: smaller;
+}
+.Company
+{
+    margin-left: 5%;
+}
+.Company a
+{
+    border-style: hidden;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-top: 10%;
+    
+    display:inline-block;
+    
+}
+.Company img
+{
+    height: 30px;
+    padding:10px;
+
+}
+.Services 
+{
+    text-decoration: none;
+    color:black;
+    background-color: rgb(54, 253, 54);
+    margin-left:10%;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+.Serviceinfo 
+{
+    border-style: hidden;
+    border-radius: 5px;
+    display:inline-block;
+    padding:20px;
+}
+.s1info
+{
+    border-style:hidden;
+    background-color:#fff;
+    display:inline-block;
+    margin-left:10%;
+    margin-top: 5%;
+    border-radius: 10px;
+    padding-right:50px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    box-shadow: 3px 3px 5px;
+}
+.s1info p
+{
+    text-decoration: none;
+    color:black;
+    background-color: rgb(54, 253, 54);
+    margin-left:10%;
+    margin-top: 5%;
+    border-radius:5px;
+    font-size: large;
+    display: inline-block;
+}
+.s1info img
+{
+    height:70px;
+    float:right;
+    padding: 10px;
+}
+.s1info pre
+{
+    margin:10%;
+}
+.s1info a
+{
+    color:black;
+}
+.s2info
+{
+    border-style:hidden;
+    background-color:black;
+    display:inline-block;
+    margin-left:10%;
+    margin-top: 5%;
+ 
+    border-radius: 10px;
+    padding-right:50px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    box-shadow: 3px 3px 5px gray;
+}
+
+.s2info p
+{
+    text-decoration: none;
+    color:black;
+    background-color:#fff;
+    margin-left:10%;
+    margin-top: 5%;
+    padding:5px;
+    border-radius:5px;
+    font-size: large;
+    display: inline-block;
+
+}
+.s2info img
+{
+    height:70px;
+    float:right;
+    padding: 10px;
+}
+.s2info pre
+{
+    color:white;
+    margin:10%;
+}
+.s2info a
+{
+    color:white;
+}
+.Proposal
+{
+    text-decoration:none;
+    padding: 50px;
+    color:rgb(15, 12, 12);
+    background-color: rgb(170, 168, 168);
+    border-radius: 20px;
+    border:hidden;
+    margin:10%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 7px;
+
+}
+.Proposal h2
+{
+    font-size: 30px;
+}
+.Proposal img
+{
+    
+    height:250px;
+    margin-left: 450px;
+    margin-top: -200px;
+}
+.Proposal pre
+{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    padding: 10px;
+    border-radius:10px;
+    margin-top: -10px;
+    display: inline-block;
+    font-size: medium;
+}
+.Case_Study 
+{
+    text-decoration: none;
+    color:black;
+    background-color: rgb(54, 253, 54);
+    margin-left:10%;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+.Caseinfo 
+{
+    border-style: hidden;
+    border-radius: 5px;
+    display:inline-block;
+    margin: 2px;
+}
+footer
+{
+    text-decoration: none;
+    background-color: rgb(43, 43, 43);
+    border-style: hidden;
+    display:inline-block;
+    margin:10% ;
+    padding: 20px ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px rgb(200, 200, 201);
+}
+.Last p
+{
+    color:#fff;
+    border-right: solid rgb(255, 255, 255);
+    display: inline-block;
+    margin: 10px;
+    padding: 30px;
+    font-size:14px;
+}
+.Last a
+{
+    color: #fff;
+}
+.Last pre
+{
+    color:#fff;
+    display: inline-block;
+    margin:10px;
+    font-size:14px;
+}
+.Last a
+{
+    color:#fff;
+    
+}
